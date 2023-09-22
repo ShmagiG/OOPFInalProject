@@ -1,0 +1,14 @@
+accounts:
+id
+name
+password(hash)
+
+friends:
+id1
+id2
+
+skills:
+skill
+id
+
+
